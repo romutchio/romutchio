@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Roman
 
-- ✍️ I'm an engineer at [Bank Tochka](https://tochka.com/).
-- 🤖 Most of the time I'm writing on Python and Go.
+- ✍️ Golang Developer at [T-Bank](https://tbank.ru), ex [Bank Tochka](https://tochka.com/).
+- 🤖 Most of the time I'm writing on Go and Python.
 - 💬 [Personal web page](https://romutchio.github.io/)
 
 ## 🛠 Tools
